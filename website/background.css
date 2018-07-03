@@ -1,0 +1,72 @@
+body {background-color: LightBlue;}
+
+.imgcircle{
+  border-radius: 50%;
+  display: block;
+  margin: 0 auto;
+}
+
+h1{
+font-family: "Courier New";
+font-weight:500
+}
+
+h2{
+font-family: "Snell Roundhand";
+font-weight: 400
+}
+
+<img src = "IMG_6076.jpg" alt = "Avatar">
+img {
+  border-radius: 50%;
+}
+
+h3{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h4{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h5{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h6{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h7{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h8{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h9{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h10{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h11{
+  font-family:"Courier New";
+  font-weight: 50
+}
+
+h12{
+  font-family:"Courier New";
+  font-weight: 50
+}
